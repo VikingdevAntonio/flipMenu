@@ -19,6 +19,13 @@
     width: 1000px;
     height: 800px;
 }
+@media (max-width: 992px) {
+    .flipbook {
+        width: 100%;
+        height: 800px;
+        padding: 10px;
+    }
+  }
 
 .flipbook .hard {
    
