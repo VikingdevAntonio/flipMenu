@@ -6,6 +6,9 @@
     box-sizing: border-box;
 	font-family: "Poppins", sans-serif;
 }
+body img{
+	width: 150px;
+}
 
 .menu1 {
     text-align: center;
